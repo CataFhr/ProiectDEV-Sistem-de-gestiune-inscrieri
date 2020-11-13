@@ -1,4 +1,4 @@
-# ProiectDEV-Sistem-de-gestiune-inscrieri
+# ProiectDevmind-Sistem-de-gestiune-inscrieri
 
 *Aplicatia este responsabila cu gestiunea listei de participanti a unui eveniment si este alcatuita din 3 parti componente:
     -o reprezentare a unui participant - clasa Guest
